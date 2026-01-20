@@ -1,9 +1,6 @@
-header {
-    border-color: #333;
-}
-
 main {
     max-width: 840px;
+    box-shadow: #333;
 }
 
 aside {
