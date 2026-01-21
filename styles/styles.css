@@ -1,3 +1,9 @@
+header {
+    background-color: #333;
+    text-align: center;
+    text-wrap: inherit;
+}
+
 main {
     max-width: 840;
 }
