@@ -12,11 +12,6 @@
     font-weight: bold;
 }
 
-.main-nav a:hover {
-    color: #ddd;
-    text-decoration: underline;
-}
-
 main {
     max-width: 840px;
 }
