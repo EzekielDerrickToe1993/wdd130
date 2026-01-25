@@ -40,6 +40,10 @@ aside img {
     height: auto;
 }
 
+aside p {
+    color: black;
+}
+
 footer {
     margin-top: 150px;
     border-top: 1px solid #000;
