@@ -38,6 +38,12 @@ main img {
     margin: 0 o 1rem 1rem;
 }
 
+aside {
+    width: 20em;
+    text-align: center;
+    position: relative;
+}
+
 p {
     padding: 0;
 }
