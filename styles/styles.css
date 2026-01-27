@@ -17,11 +17,11 @@ nav a {
 
 h1 {
     color: steelblue;
-    padding: 5rem;
+    padding: 0.5rem;
 }
 
 main {
-    max-width: 600px;
+    max-width: 650px;
 }
 
 main img {
@@ -42,6 +42,7 @@ aside {
     width: 20em;
     text-align: center;
     position: relative;
+
 }
 
 aside img {
@@ -64,8 +65,8 @@ footer {
 /* class Selector */
 .box {
     margin: 1rem;
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 10%);
     padding: 1rem;
-    background-color: #eee;
+    background-color: #ddd;
     color: #000;
 }
