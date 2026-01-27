@@ -4,14 +4,9 @@
     box-sizing: border-box;
 }
 
-header {
-    background-color: #333;
-    padding: 10px;
-}
-
 nav {
     background-color: #333;
-    padding: 1rem;
+    padding: 10px;
 }
 
 nav a {
@@ -22,10 +17,11 @@ nav a {
 
 h1 {
     color: steelblue;
+    padding: 5rem;
 }
 
 main {
-    max-width: 840px;
+    max-width: 640px;
 }
 
 main img {
@@ -35,7 +31,7 @@ main img {
     padding: 2px;
     box-shadow: 0 0 30px gray;
     float: right;
-    margin: 0 o 1rem 1rem;
+    margin: 0 0 1rem 1rem;
 }
 
 aside {
