@@ -5,7 +5,7 @@
 }
 
 nav {
-    background-color: #333;
+    background-color: steelblue;
     padding: 10px;
 }
 
@@ -17,7 +17,7 @@ nav a {
 
 h1 {
     color: steelblue;
-    padding: 0.5rem;
+    padding: .5rem;
 }
 
 main {
@@ -65,8 +65,8 @@ footer {
 /* class Selector */
 .box {
     margin: 1rem;
-    border: 1px solid rgba(0, 0, 0, 10%);
+    border: 1px solid rgba(0, 0, 0, .1);
     padding: 1rem;
-    background-color: #ddd;
+    background-color: #eee;
     color: #000;
 }
