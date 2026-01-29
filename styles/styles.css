@@ -56,6 +56,10 @@ aside h2 {
     left: 120px;
 }
 
+ul class {
+    color: #000;
+}
+
 footer {
     margin-top: 150px;
     border-top: 1px solid #000;
