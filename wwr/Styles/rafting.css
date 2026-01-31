@@ -32,7 +32,7 @@ body {
 header,
 main,
 footer {
-    width: 840px;
+    width: 60px;
     margin: 0;
 }
 
@@ -80,16 +80,4 @@ h1 {
 .hero article img {
     float: right;
     width: 125px;
-}
-
-footer {
-    background-color: #0b3c5d;
-    color: white;
-    text-align: center;
-    padding: 20px;
-}
-
-.footer-img {
-    width: 100px;
-    margin-bottom: 10px;
 }
