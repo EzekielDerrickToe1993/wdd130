@@ -111,3 +111,7 @@ article {
     padding: 1.0px;
     border-radius: 0.1px;
 }
+
+.hero article h2 {
+    color: bisque;
+}
