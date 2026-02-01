@@ -65,13 +65,18 @@ article {
     text-decoration: none;
 }
 
+header {
+    margin: auto;
+    top: 0;
+}
+
 .hero {
     position: relative;
 }
 
 .hero article img {
     float: right;
-    width: 125px;
+    width: 75px;
 }
 
 .hero h1 {
@@ -101,7 +106,7 @@ article {
     left: 11%;
     transform: translateX(-23%);
     width: 47%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding: 1.0px;
     border-radius: 0.1px;
