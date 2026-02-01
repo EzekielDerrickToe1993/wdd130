@@ -71,7 +71,7 @@ header {
 }
 
 .hero {
-    position: relative;
+    position: absolute;
 }
 
 .hero article img {
