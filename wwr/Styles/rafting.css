@@ -94,11 +94,6 @@ article {
 
 }
 
-.hero img {
-    width: 100%;
-    display: block;
-}
-
 .hero article {
     position: absolute;
     /* REQUIRED */
