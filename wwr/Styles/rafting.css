@@ -81,6 +81,7 @@ article {
     text-align: center;
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 0;
 
     .hero article {
         position: absolute;
@@ -102,8 +103,19 @@ article {
 
 }
 
-article img {
-    position: absolute;
-    padding: 16px;
-
+.hero img {
+    width: 100%;
+    display: block;
 }
+
+.hero article {
+    position: absolute;
+    /* REQUIRED */
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    padding: 1.5px;
+    border-radius: 1px;
